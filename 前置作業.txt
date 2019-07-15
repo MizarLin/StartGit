@@ -1,0 +1,31 @@
+﻿※ 前置作業 ※ 
+
+1	到GitHub申請帳號
+
+2	請填寫問券，統整GitHub帳號對照表
+
+3	安裝Git，注意要挑選的選項 (底下為2.21.0版本安裝時所提示的訊息)
+
+    3.1	Use Visual Studio Code as Git’s default editor
+
+    3.2	Git from the command line and also from 3rd-party software
+
+4	確認&初始化設定
+
+    4.1	請在D槽(如果沒有D槽，請選擇其他可存取的磁碟路徑)底下建立LabGit資料夾
+
+    4.2	在資料夾裡面按右鍵 > Git Bash Here，接著依序輸入底下指令，然後觀察
+
+    4.3	git version
+
+    4.4	git config --global -l
+
+    4.5	git config --global user.name "Your Name"
+
+    4.6	git config --global user.email "name@mail.com"
+
+    4.7	git config --global -l
+
+    4.8	git status
+
+5   稍後需要用到的：https://github.com/iiiTechDemo/FirstProject.git
